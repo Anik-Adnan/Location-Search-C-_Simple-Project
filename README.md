@@ -1,4 +1,4 @@
-## C++ Simple project for finding institutional location
+## C++ Simple project for finding institutional location or Hospitals Location
 ---
 __Main Console__
 
