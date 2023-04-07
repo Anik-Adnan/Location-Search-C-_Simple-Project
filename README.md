@@ -1,4 +1,4 @@
-## C++ Simple project for finding institutional location or Hospitals Location
+## C++ Simple project for finding institutional as well as Hospitals location
 ---
 __Main Console__
 
@@ -52,7 +52,8 @@ Only the difference is ,It is used for Hospital only.
 ```
 __Main purpose of option 3 and 4 is finding Institution and Hospital separately__
 
-__Option: 5 __
+__Option: 5__
+
 ```
 Option 5 is for program exit.
         "Thank You"
@@ -60,7 +61,12 @@ Option 5 is for program exit.
 __Finally choose your specific option__
 <hr>
 <br>
-With this<br>
+<p>
 Find the Institutional(University) or Hospitals location.<br> 
-Adding Universities/Hospitals location.<br>
+Adding Universities/Hospitals location.<br><p>
+
+## contact with me
+### ✉  anikadnanict17@gmail.com
+
+
 
