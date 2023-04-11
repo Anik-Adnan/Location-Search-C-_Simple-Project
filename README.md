@@ -17,8 +17,10 @@ if name matched in file then provide loaction with
     2. Thana Name
     3. District Name
     4. Division Name
-if Named not matched a message provide like 
-  "Not Found any University or institute"
+  If searched instutite name macthed then provide the locations
+  Otherwise shown a sms like
+        "Not Found any University or institute"
+    
 
 then generate 2 option 
  1. previour menu
