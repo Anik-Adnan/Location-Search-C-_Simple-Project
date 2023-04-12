@@ -97,7 +97,7 @@ f:
         }
         else
         {
-            cout<<"\t\t Not Found any University or institute.Name does not matched"<<endl;
+            cout<<"\t\t Not Found any University or institute.Name  unmatched"<<endl;
         }
         cout<<endl<<endl;
 
