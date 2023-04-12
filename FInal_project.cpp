@@ -18,7 +18,7 @@ f:
     int choice;
     cout<<"1.Search any University or Institute Location."<<endl;
     cout<<"2.Add University or Institute Location."<<endl;
-    cout<<"3.Search any Hospital Location."<<endl;
+    cout<<"3.Search any Hospitals Location."<<endl;
     cout<<"4.Add Hospital Location."<<endl;
     cout<<"5.Exit"<<endl;
 
@@ -97,7 +97,7 @@ f:
         }
         else
         {
-            cout<<"\t\t Not Found any University or institute"<<endl;
+            cout<<"\t\t Not Found any University or institute.Name does not matched"<<endl;
         }
         cout<<endl<<endl;
 
@@ -295,12 +295,9 @@ f:
 
         break;
     }
-
-
 e:
     case 5:
     {
-
         system("cls");
         system("color 4e");
         cout<<"\n\n\n\n\n\t\t\t\t\tThank You!!!\t\t\t"<<endl<<endl<<endl;
